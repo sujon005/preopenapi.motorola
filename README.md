@@ -1,0 +1,2 @@
+# preopenapi.motorola
+Subdomain Takeover
